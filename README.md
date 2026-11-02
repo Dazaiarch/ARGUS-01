@@ -158,4 +158,5 @@ See `documentation/` for architecture, component specifications, gesture mapping
 
 ## License
 
-Proprietary — ARGUS research project.
+Proprietary — ARGUS research project.#   A R G U S - 0 1  
+ 
